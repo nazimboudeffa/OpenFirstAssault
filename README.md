@@ -1,6 +1,6 @@
 # OpenFirstAssault
 
-This is just a readme file until I find a way to work easy with 3D and GITHUB
+This is just a readme file until I find a way to work easy with 3D and GITHUB, btw am follwing the [Ancient Beast community](https://ancientbeast.com/) game developpement as they use to work with 3D assets
 
 # Assets
 
