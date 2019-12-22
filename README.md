@@ -9,7 +9,7 @@ https://sketchfab.com/thefailtheory
 
 # Game
 
-I will upload on Mega as soon as possible but you can come and take a look
+I will upload on Mega as soon as possible but you can come and take a look at the sate of my hacks
 https://mega.nz/#F!MoUxQa6J!PuPWv5uULigINBGutEXfJA
 
 When you launch the game just click on Play then if you want to quit Alt + F4 it's the key binding by default on unreal
