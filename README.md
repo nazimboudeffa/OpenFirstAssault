@@ -12,6 +12,8 @@ https://sketchfab.com/thefailtheory
 I will upload on Mega as soon as possible but you can come and take a look
 https://mega.nz/#F!MoUxQa6J!PuPWv5uULigINBGutEXfJA
 
+When you launch the game just click on Play then if you want to quit Alt + F4 it's the key binding by default on unreal
+
 # Fan kit
 
 Am a big fan of the manga since it's early publications but here it's about the FPS Game
