@@ -18,3 +18,7 @@ When you launch the game just click on Play then if you want to quit Alt + F4 it
 
 Am a big fan of the manga since it's early publications but here it's about the FPS Game
 https://mega.nz/#F!k8MQlKwD!ML61WpJQv3ewbavwP4N24w
+
+# Videos
+
+https://www.youtube.com/watch?v=o1hmdpfYgBc&list=PLhAVPXwuphwkeAkXbv8fQUIzZ37hSrkIQ
