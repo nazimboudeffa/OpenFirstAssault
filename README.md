@@ -18,7 +18,7 @@ When you launch the game just click on Play then if you want to quit Alt + F4 it
 
 # Fan kit
 
-Am a big fan of the manga since it's early publications but here it's about the FPS Game
+Am a big fan of the manga since its early publications in the 90s but here it's about the FPS Game
 https://mega.nz/#F!k8MQlKwD!ML61WpJQv3ewbavwP4N24w
 
 # Videos
