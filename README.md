@@ -21,4 +21,5 @@ https://mega.nz/#F!k8MQlKwD!ML61WpJQv3ewbavwP4N24w
 
 # Videos
 
+I was following the game since its launch and modded it my way according to the community guidelines
 https://www.youtube.com/watch?v=o1hmdpfYgBc&list=PLhAVPXwuphwkeAkXbv8fQUIzZ37hSrkIQ
