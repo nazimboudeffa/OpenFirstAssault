@@ -1,4 +1,4 @@
-# OpenFirstAssault
+# OpenFirstAssault (𝐈𝐬𝐡𝐢𝐤𝐚𝐰𝐚 𝐂𝐇 𝟎𝐱𝟎𝟏)
 
 ![A Ghost in the Shell Story](Tashikoma.jpg)
 
