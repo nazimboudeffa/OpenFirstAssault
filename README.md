@@ -1,6 +1,6 @@
 # OpenFirstAssault
 
-![A Ghost in the Shell Story](Tashikoma.jpg)
+![A Ghost in the Shell Story](Tachikoma.jpg)
 
 ## Ishikawa CH 0x01
 
