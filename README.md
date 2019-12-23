@@ -2,7 +2,7 @@
 
 This is just a readme file until I find a way to work easy with 3D and GITHUB, btw am follwing the [Ancient Beast community](https://ancientbeast.com/) game developpement as they use to work with 3D assets
 
-BTW, if you wan't to play an FPS cyberpunk like just give a try to [Ironsight](https://fr.ironsight.aeriagames.com/) THX
+BTW, if you want to play an FPS cyberpunk like just give a try to [Ironsight](https://fr.ironsight.aeriagames.com/) THX
 
 # Assets
 
