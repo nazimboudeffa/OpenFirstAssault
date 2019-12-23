@@ -1,6 +1,8 @@
-# OpenFirstAssault (𝐈𝐬𝐡𝐢𝐤𝐚𝐰𝐚 𝐂𝐇 𝟎𝐱𝟎𝟏)
+# OpenFirstAssault
 
 ![A Ghost in the Shell Story](Tashikoma.jpg)
+
+## Ishikawa CH 0x01
 
 This is just a readme file until I find a way to work easy with 3D and GITHUB, btw am follwing the [Ancient Beast community](https://ancientbeast.com/) game developpement as they use to work with 3D assets
 
