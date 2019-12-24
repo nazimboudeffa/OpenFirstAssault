@@ -13,6 +13,8 @@ BTW, if you want to play an FPS cyberpunk like just give a try to [Ironsight](ht
 You'll find all the legal assets on my 3D modding account on sketchfab
 https://sketchfab.com/thefailtheory
 
+The SWAT guy is from https://www.mixamo.com/
+
 # Game
 
 I will upload on Mega as soon as possible but you can come and take a look at the sate of my hacks
