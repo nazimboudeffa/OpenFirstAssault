@@ -40,6 +40,6 @@ https://www.youtube.com/watch?v=o1hmdpfYgBc&list=PLhAVPXwuphwkeAkXbv8fQUIzZ37hSr
 
 https://discord.gg/SsfuwBK (Original Game called GitS First Assault)
 
-https://discord.gg/2SVTmXD (Unreal Remke called Section 9)
+https://discord.gg/2SVTmXD (Unreal Remake called Section 9)
 
 You can join my indiedev groupe https://www.facebook.com/groups/393024508280476
