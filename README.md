@@ -17,16 +17,18 @@ The SWAT guy is from https://www.mixamo.com/
 
 # Game
 
-I will upload on Mega as soon as possible but you can come and take a look at the sate of my hacks
+The original game is located on [steam](https://steamcommunity.com/app/369200)
+
+You can take a look in this folder to find all the assets and files you need for the game
 https://mega.nz/#F!MoUxQa6J!PuPWv5uULigINBGutEXfJA
 
-You'll find the python scripts to unpack the assets in the same folder, just install the last python version, edit the script with the right paths and run
+You'll find the python scripts to unpack the assets (use v2) in the same folder, just install the last python version, edit the script with the right paths and run
 
     #python gits_unpackerVERSION.py
 
-There will be two important ZIP files, OpenFirstAssault.zip (unreal 4.22 project) and WindowsNoEditor.zip (conataining an x64  build)
+There will always be two important ZIP files, OpenFirstAssault.zip (unreal 4.22 project) and WindowsNoEditor.zip (conataining an x64  build)
 
-When you launch the game just click on Play then if you want to quit Alt + F4 it's the key binding by default on unreal
+Actually when you launch the game just click on Play then if you want to quit Alt + F4 it's the key binding by default on unreal
 
 # Fan kit
 
@@ -48,4 +50,4 @@ https://discord.gg/2SVTmXD (Unreal Remake called Section 9)
 
 The third discord I don't know who is managing it but it tryes to recreate the game in Unity
 
-So you can join my indiedev group if you want to discuss anything related to my little hack https://www.facebook.com/groups/393024508280476
+So you can join my indiedev group if you want to discuss anything related to my little project https://www.facebook.com/groups/393024508280476
