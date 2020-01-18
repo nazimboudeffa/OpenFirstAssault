@@ -39,7 +39,7 @@ https://mega.nz/#F!k8MQlKwD!ML61WpJQv3ewbavwP4N24w
 
 The vids are not repertoried because we are hackers right :p 
 
-I was following the game since its launch and modded it my way according to the community guidelines
+I was following the game since its launch and modded it my way according to the community guidelines to not be banned or blacklisted so here are some videos of how it goes since it has been stoped
 https://www.youtube.com/watch?v=o1hmdpfYgBc&list=PLhAVPXwuphwkeAkXbv8fQUIzZ37hSrkIQ
 
 # Community
