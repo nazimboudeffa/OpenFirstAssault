@@ -20,6 +20,10 @@ The SWAT guy is from https://www.mixamo.com/
 I will upload on Mega as soon as possible but you can come and take a look at the sate of my hacks
 https://mega.nz/#F!MoUxQa6J!PuPWv5uULigINBGutEXfJA
 
+You'll find the python scripts to unpack the assets in the same folder, just install the last python version, edit the script with the right paths and run
+
+    #python gits_unpackerVERSION.py
+
 There will be two important ZIP files, OpenFirstAssault.zip (unreal 4.22 project) and WindowsNoEditor.zip (conataining an x64  build)
 
 When you launch the game just click on Play then if you want to quit Alt + F4 it's the key binding by default on unreal
