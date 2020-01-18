@@ -22,7 +22,7 @@ The original game is located on [steam](https://steamcommunity.com/app/369200)
 You can take a look in this folder to find all the assets and files you need for the game
 https://mega.nz/#F!MoUxQa6J!PuPWv5uULigINBGutEXfJA
 
-You'll find the python scripts to unpack the assets (use v2) in the same folder, just install the last python version, edit the script with the right paths and run
+You'll find the python scripts to unpack the assets of the steam game (use the v2 of the unpacker) in the same folder, just install the last python version, edit the script with the right paths and run
 
     #python gits_unpackerVERSION.py
 
