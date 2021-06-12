@@ -48,6 +48,8 @@ https://discord.gg/SsfuwBK (Original Game called GitS First Assault)
 
 https://discord.gg/2SVTmXD (Unreal Remake called Section 9)
 
+The third discord i don't have the access
+
 https://discord.gg/suQctuDYSc (FA-EMU)
 
 The third discord I don't know who is managing it but it tryes to recreate the game in Unity
